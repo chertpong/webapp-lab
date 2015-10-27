@@ -1,0 +1,25 @@
+{
+  "name": "webapp",
+  "version": "0.0.0",
+  "authors": [
+    "Krit <kritcg@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "textAngular": "~1.4.2",
+    "angular-sanitize": "~1.4.3",
+    "jquery-ui": "~1.11.4",
+    "angular-route": "~1.4.7"
+  }
+}
